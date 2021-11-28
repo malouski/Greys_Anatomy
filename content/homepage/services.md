@@ -4,21 +4,29 @@ weight: 2
 header_menu: true
 ---
 
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
+The network of Grey's Anatomy currently consists of
+
+2214
+: nodes
+
+9692
+: edges
+
+but the series is going strong on its 19th season (*!!!* ), so new characters are added to the wiki every week.
 
 ---
 
-## Nutrition Coaching
+## The network
 
-This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
+Here we can show the static viz of the network.
 
-![Nice picture to make you pay me ;-)](images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg)
+![static network](images/network1.png =100x20)
 
 Wow. That was nice, right? Well, call me and let us talk.
 
 ---
 
-## Chef Consulting
+## Distributions
 
 Did you see the picture above? I can show you how to go from
 
@@ -32,6 +40,4 @@ in estimated seconds.
 
 ---
 
-Want to learn more about my services?
-
-Check out [this page](services) I created. It carries a lot more details...
+Now let's look at some more detailed networks.
