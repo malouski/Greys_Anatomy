@@ -1,5 +1,5 @@
 ---
-header_image: "images/cover-image.jpg"
-header_headline: "Jane Doe"
-header_subheadline: "Hi there , I am a Nutrition Coach & Chef Consultant"
+header_image: "images/greys_cover1.jpg"
+header_headline: "Grey's Anatomy"
+header_subheadline: "Exploring the complex networks of the series Grey's Anatomy"
 ---
