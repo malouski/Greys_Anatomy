@@ -20,7 +20,7 @@ but the series is going strong on its 19th season (*!!!* ), so new characters ar
 
 Here we can show the static viz of the network.
 
-![static network](images/network1.png =100x20)
+![static network](images/network1.png)
 
 Wow. That was nice, right? Well, call me and let us talk.
 
