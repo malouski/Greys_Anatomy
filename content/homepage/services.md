@@ -43,7 +43,7 @@ doctors
 
 Now we can create a network based on the characters' relationships!
 
-(We've coloured the nodes based on whether the character is alive or deceased (and edges based on relationship).)
+We've coloured the nodes based on whether the character is alive or deceased. The edges are coloured by relationships. A purple edge indicates the characters are family, pink edges are romantic relationships and blue edges are doctor/patient relationship. Grey edges indicate an unknown relationsip.
 
 Try our interactive plot to see who is connected! You can zoom in and out for closer looks.
 
