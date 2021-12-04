@@ -48,7 +48,7 @@ We've coloured the nodes based on whether the character is alive or deceased (an
 WOULD LIKE THE INTERACTIVE PLOT HERE...
 
 <div align="center">
-    <iframe src="inter.html" width=600px height=600px></iframe>
+    <iframe src="inter.html" sandbox="allow-same-origin allow-scripts" width=600px height=600px></iframe>
 </div>
 
 ![static network](images/network1.png)
@@ -139,7 +139,7 @@ Har gjort det på in-degree her - skal vi bare tage degree? eller både in/out?
             <td style="background-color:rgba(0, 0, 0, 0);">
                 <img src="images/richard.jpg" class="img_c" alt="Richard" height="100">
             </td>
-            <td style="background-color:rgba(0, 0, 0, 0);">Richard Weber</td>
+            <td style="background-color:rgba(0, 0, 0, 0);">Richard Webber</td>
             <td style="background-color:rgba(0, 0, 0, 0);">236</td>
         </tr>
          <tr>
