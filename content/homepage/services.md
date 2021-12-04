@@ -43,15 +43,13 @@ doctors
 
 Now we can create a network based on the characters' relationships!
 
-We've coloured the nodes based on whether the character is alive or deceased (and edges based on relationship).
+(We've coloured the nodes based on whether the character is alive or deceased (and edges based on relationship).)
 
-WOULD LIKE THE INTERACTIVE PLOT HERE...
+Try our interactive plot to see who is connected! You can zoom in and out for closer looks.
 
 <div align="center">
-    <iframe src="inter.html" sandbox="allow-same-origin allow-scripts" width=600px height=600px></iframe>
+    <iframe src="inter.html" sandbox="allow-same-origin allow-scripts" width=700px height=700px></iframe>
 </div>
-
-![static network](images/network1.png)
 
 We can see that some of the...
 
