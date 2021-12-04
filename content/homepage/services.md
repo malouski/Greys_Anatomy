@@ -50,6 +50,8 @@ Try our interactive plot to see who is connected! You can zoom in and out for cl
 <div align="center">
     <iframe src="inter.html" sandbox="allow-same-origin allow-scripts" width=600px height=600px
     scrolling="no"
+    seamless="seamless"
+    frameborder="0"
      ></iframe>
 </div>
 
