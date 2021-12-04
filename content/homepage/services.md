@@ -48,7 +48,9 @@ Now we can create a network based on the characters' relationships!
 Try our interactive plot to see who is connected! You can zoom in and out for closer looks.
 
 <div align="center">
-    <iframe src="inter.html" sandbox="allow-same-origin allow-scripts" width=700px height=700px></iframe>
+    <iframe src="inter.html" sandbox="allow-same-origin allow-scripts" width=800px height=800px
+    seamless="seamless"
+    frameborder="0" ></iframe>
 </div>
 
 We can see that some of the...
