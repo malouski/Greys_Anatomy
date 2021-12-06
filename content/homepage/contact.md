@@ -5,7 +5,7 @@ header_menu: true
 ---
 
 <div align="center">
-    <iframe src="episode_stats.html" sandbox="allow-same-origin allow-scripts" width=620px height=620px
+    <iframe src="episode_stats.html" sandbox="allow-same-origin allow-scripts" width=700 height=1000px
     scrolling="no"
     seamless="seamless"
     frameborder="0"
