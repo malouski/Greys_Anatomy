@@ -83,8 +83,6 @@ The degree distributions show that a lot of characters have very few connections
 
 The distribution plots showed us that there can be a huge difference in the number of connections for characters. Let's have a look at who has the most connections.
 
-Har gjort det på in-degree her - skal vi bare tage degree? eller både in/out?
-
 <table style="color:white">
     <thead>
         <tr>
@@ -102,7 +100,7 @@ Har gjort det på in-degree her - skal vi bare tage degree? eller både in/out?
                 <img src="images/mer.jpg" class="img_c" alt="Meredith" height="100">
             </td>
             <td style="background-color:rgba(0, 0, 0, 0);">Meredith Grey</td>
-            <td style="background-color:rgba(0, 0, 0, 0);">356</td>
+            <td style="background-color:rgba(0, 0, 0, 0);">381</td>
         </tr>
         <tr>
             <td style="background-color:rgba(0, 0, 0, 0);"> 2 </td>
@@ -110,7 +108,15 @@ Har gjort det på in-degree her - skal vi bare tage degree? eller både in/out?
                 <img src="images/karev.jpg" class="img_c" alt="Karev" height="100">
             </td>
             <td style="background-color:rgba(0, 0, 0, 0);">Alex Karev</td>
-            <td style="background-color:rgba(0, 0, 0, 0);">300</td>
+            <td style="background-color:rgba(0, 0, 0, 0);">321</td>
+        </tr>
+        <tr>
+            <td style="background-color:rgba(0, 0, 0, 0);"> 4 </td>
+            <td style="background-color:rgba(0, 0, 0, 0);">
+                <img src="images/bailey.jpg" class="img_c" alt="Miranda" height="100">
+            </td>
+            <td style="background-color:rgba(0, 0, 0, 0);">Miranda Bailey</td>
+            <td style="background-color:rgba(0, 0, 0, 0);">319</td>
         </tr>
         <tr>
             <td style="background-color:rgba(0, 0, 0, 0);"> 3 </td>
@@ -118,15 +124,7 @@ Har gjort det på in-degree her - skal vi bare tage degree? eller både in/out?
                 <img src="images/derek.jpg" class="img_c" alt="Derek" height="100">
             </td>
             <td style="background-color:rgba(0, 0, 0, 0);">Derek Shepherd</td>
-            <td style="background-color:rgba(0, 0, 0, 0);">299</td>
-        </tr>
-         <tr>
-            <td style="background-color:rgba(0, 0, 0, 0);"> 4 </td>
-            <td style="background-color:rgba(0, 0, 0, 0);">
-                <img src="images/bailey.jpg" class="img_c" alt="Miranda" height="100">
-            </td>
-            <td style="background-color:rgba(0, 0, 0, 0);">Miranda Bailey</td>
-            <td style="background-color:rgba(0, 0, 0, 0);">289</td>
+            <td style="background-color:rgba(0, 0, 0, 0);">302</td>
         </tr>
          <tr>
             <td style="background-color:rgba(0, 0, 0, 0);"> 5 </td>
@@ -134,7 +132,7 @@ Har gjort det på in-degree her - skal vi bare tage degree? eller både in/out?
                 <img src="images/yang.jpg" class="img_c" alt="Yang" height="100">
             </td>
             <td style="background-color:rgba(0, 0, 0, 0);">Cristina Yang</td>
-            <td style="background-color:rgba(0, 0, 0, 0);">252</td>
+            <td style="background-color:rgba(0, 0, 0, 0);">260</td>
         </tr>
          <tr>
             <td style="background-color:rgba(0, 0, 0, 0);"> 6 </td>
@@ -142,7 +140,7 @@ Har gjort det på in-degree her - skal vi bare tage degree? eller både in/out?
                 <img src="images/richard.jpg" class="img_c" alt="Richard" height="100">
             </td>
             <td style="background-color:rgba(0, 0, 0, 0);">Richard Webber</td>
-            <td style="background-color:rgba(0, 0, 0, 0);">236</td>
+            <td style="background-color:rgba(0, 0, 0, 0);">252</td>
         </tr>
          <tr>
             <td style="background-color:rgba(0, 0, 0, 0);"> 7 </td>
@@ -150,7 +148,7 @@ Har gjort det på in-degree her - skal vi bare tage degree? eller både in/out?
                 <img src="images/hunt.jpg" class="img_c" alt="Hunt" height="100">
             </td>
             <td style="background-color:rgba(0, 0, 0, 0);">Owen Hunt</td>
-            <td style="background-color:rgba(0, 0, 0, 0);">228</td>
+            <td style="background-color:rgba(0, 0, 0, 0);">237</td>
         </tr>
 </table>
 
