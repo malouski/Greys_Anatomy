@@ -251,7 +251,7 @@ hr {
   display: block;
   height: 1px;
   border: 0;
-  border-top: 1px solid #fff;
+  border-top: 1px solid #efefef;
   margin: 3.2em 0;
   padding: 0;
 }
@@ -472,8 +472,8 @@ ul li {
   height: 100%;
   margin-bottom: 0rem;
   text-align: center;
-  color: #1f618d;
-  background: #5fb0e6 no-repeat center center;
+  color: #fff;
+  background: #b80135 no-repeat center center;
   background-size: cover;
 }
 

@@ -178,7 +178,7 @@ Hover over the plot below to have a look at the stats!
 </div>
 
 Meredith treats most patients throughout the series, which is expected. One might be surprised by the high number of deceased patients during Derek's treaments considering his relatively short lifetime in the show compared to Miranda and Meredith, who are the top two doctors in terms of lost patients.
-Who would have guessed that Preston Burke scores significantly higher than the subsequent doctores in top 5 Patient Death Rate? Another interesting finding is that 2 out of the 5 doctors with highest death rates are brain surgeons. Maybe this is a medical speciality with higher risks?
+Who would have guessed that Preston Burke scores significantly higher than the subsequent doctores in top 5 Patient Death Rate? No wonder he was kicked of the show... Another interesting finding is that 2 out of the 5 doctors with highest death rates are brain surgeons. Maybe this is a medical speciality with higher risks?
 
 ---
 
