@@ -20,4 +20,10 @@ Point proven! We've showed you that there are plenty of relationships to explore
 
 ##### Communities
 
-
+<div align="center">
+    <iframe src="communities.html" sandbox="allow-same-origin allow-scripts" width=620px height=620px
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0"
+     ></iframe>
+</div>
