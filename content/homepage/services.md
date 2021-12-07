@@ -1,11 +1,11 @@
 ---
-title: "Basic statistics"
+title: "Basic statistics & facts"
 weight: 2
 header_menu: true
 plotly: true
 ---
 
-The network of Grey's Anatomy currently consists of
+Using the wikipage data we've made a network of the characters in Grey's Anatomy. It currently consists of
 
 2137
 : nodes
@@ -21,7 +21,7 @@ Since there are a lot of different characters in the series, we've divided them 
 
 It's not surprising that there are most patients, since new patients arrive in each episode whereas the hospital staff is more persistent.
 
-Each character is described by their name, condition (alive or deceased) and role. Furthermore, the characters are connect to each other by having a doctor/patient relationship, being romantically involved and being family members. Let's take a look at Meredith's attributes.
+The wikipages also provided some character attributes. We've chosen to describe each character by their name, condition (alive or deceased) and role. They are connect to each other by having a doctor/patient relationship, being romantically involved and being family members. Let's take a look at Meredith's attributes.
 
 name
 : Meredith Grey
@@ -43,7 +43,7 @@ doctors
 
 Now we can create a network based on the characters' relationships!
 
-We've coloured the nodes based on whether the character is alive or deceased. The edges are coloured by relationships. A purple edge indicates the characters are family, pink edges are romantic relationships and blue edges are doctor/patient relationship. Grey edges indicate an unknown relationsip.
+We've coloured the nodes based on whether the character is <span style="color:#F8BBD0">alive</span>, <span style="color:#B0BEC5">deceased</span> or the condition is <span style="color:#FFEB3B">unknown</span>. The edges are coloured by relationships. A <span style="color:#AB47BC">purple</span> edge indicates the characters are family, <span style="color:#EC407A">pink</span> edges are romantic relationships and <span style="color:#42A5F5">blue</span> edges are doctor/patient relationship. <span style="color:#D6DBDF">Grey</span> edges indicate an unknown relationsip.
 
 Try our interactive plot to see who is connected! You can zoom in and out for closer looks.
 
@@ -55,27 +55,21 @@ Try our interactive plot to see who is connected! You can zoom in and out for cl
      ></iframe>
 </div>
 
-We can see that some of the...
+We can see that mainly the doctors of the series and other main characters are in the center of the plot and have larger nodes. This is due to them having more connections i.e., a larger degree!
 
 ---
 
-## Distributions
+## Degree distributions
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+The degree distributions show how many connections each character has. The in-degree tells us how many wikipages a character is mentioned in, whereas the out-degree tells us how many times other characters are mentioned in this characters page.
 
-The in-degree distribution can be seen below...
+From the in-degree distribution we see that there a lot of characters with a very low in-degree while only few with a large in-degree. The same goes for the out-degree distribution. It can also be seen that they both follow a power law distribtuion, which means that if a character has many connections it is more likely to get new connections. That makes sense, since the doctors get more patients the longer they are on the show!
 
 ![static network](images/in_degree.png)
 
-SOMETHING CLEVER ABOUT THE DISTRIBUTION
-
-The out-degree distribution can be seen below...
-
 ![static network](images/out_degree.png)
 
-SOMETHING CLEVER ABOUT THE DISTRIBUTION
-
-The degree distributions show that a lot of characters have very few connections, which is often the case for patients. The characters with high degrees are mainly the doctors who are also the main characters of the series. Let's have a closer look at these characters by exploring some statistics!
+Characters with few connections are often patients and those with high degrees are mainly the doctors who are also the main characters of the series. Let's have a closer look at these characters by exploring some statistics!
 
 ---
 
@@ -158,7 +152,7 @@ It's not surprising that the characters with most connections are the doctors an
     <h5> What do you think the average 'lifetime' of a doctor on Grey's Anatomy is? </h5>
 </div>
 
-The **125** attendings, residents and interns have an average 'lifetime' of **53** episodes or approximately **2** seasons. That doesn't sound like a lot! The violin plot below shows the number of episodes per character. As you can see there is quite a heavy bottom but also a large variation.
+The **125** attendings, residents and interns have an average 'lifetime' of **53** episodes that is approximately **2** seasons. That doesn't sound like a lot! The violin plot below shows the number of episodes per character. As you can see there is quite a heavy bottom but also a large variation.
 
 Hover over the plot to see who has been in most episodes!
 
@@ -167,13 +161,13 @@ Hover over the plot to see who has been in most episodes!
 
 Wauw, Miranda Bailey has been in 389 episodes! That means she is the most appearing character in the Grey's Anatomy franchise.
 
-The characters who has been in most episodes are also some of those who has the most connections, makes sense! The doctors often has a large number of connections because they have many patients.
+The characters who have been in most episodes are also some of those who have the most connections, makes sense! The doctors often have a large number of connections because they have many patients.
 
 <div align="center">
-    <h5> Who do you think treats the most patients? And who is most unsuccesful in doing so? </h5>
+    <h5> Who do you think treats the most patients? And who is most unsuccesful in treating them? </h5>
 </div>
 
-Hover the mouse over the plot below to have a look at the stats!
+Hover over the plot below to have a look at the stats!
 
 <div align="center">
     <iframe src="treatment_chart.html" sandbox="allow-same-origin allow-scripts" width=700 height=670px
@@ -183,8 +177,8 @@ Hover the mouse over the plot below to have a look at the stats!
      ></iframe>
 </div>
 
-Meredith treats most patients throughout the series, which is expected. One might be surprised by the high no. of deceased patients during Derek's treaments considering his relative short lifetime in the show compared to Miranda and Meredith, who are the top two doctors in terms of lost patients.
-Who would have guessed that Preston Burke scores significantly higher than the subsequent doctores in top 5 Patient Death Rate? Another interesting finding is that 3 out of 5 doctors with highest death rate are brain surgeons. Maybe this medical speciality has more critical cases?
+Meredith treats most patients throughout the series, which is expected. One might be surprised by the high number of deceased patients during Derek's treaments considering his relatively short lifetime in the show compared to Miranda and Meredith, who are the top two doctors in terms of lost patients.
+Who would have guessed that Preston Burke scores significantly higher than the subsequent doctores in top 5 Patient Death Rate? Another interesting finding is that 2 out of the 5 doctors with highest death rates are brain surgeons. Maybe this is a medical speciality with higher risks?
 
 ---
 
