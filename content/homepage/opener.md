@@ -12,8 +12,12 @@ Let's map it out and get the overview we have all been waiting for.
 
 #### The data
 
-We are using the [fandom wikipage for Grey's Anatomy](https://greysanatomy.fandom.com/wiki/Grey%27s_Anatomy_Universe_Wiki) to collect information on all the characters in the series. The information from these pages are used to create the network and character attributes. Data on episode views and ratings are obtained from [Wikipedia](https://en.wikipedia.org/wiki/List_of_Grey%27s_Anatomy_episodes) and IMDB respectively. Furthermore, episode transcripts are obtained from [foreverdreaming.org](https://foreverdreaming.org). Read more about the data and preprocessing in the explainer notebook.
+We are using the [fandom wikipage for Grey's Anatomy](https://greysanatomy.fandom.com/wiki/Grey%27s_Anatomy_Universe_Wiki) to collect information on all the characters in the series. The information from these pages are used to create the network and character attributes. Data on episode views and ratings are obtained from [Wikipedia](https://en.wikipedia.org/wiki/List_of_Grey%27s_Anatomy_episodes) and [IMDB](https://www.imdb.com/title/tt0413573/) respectively. Furthermore, episode transcripts are obtained from [foreverdreaming.org](https://foreverdreaming.org).
 
-All our notebooks, data, etc. can be found in our GitHub repository.
+Read more about the data and preprocessing in the explainer notebook.
 
-{{< button "Go to repo" "https://github.com/malouski/Greys_Anatomy" >}}
+{{< button "Go to explainer notebook" "https://github.com/malouski/Greys_Anatomy" >}}
+
+All our notebooks, data, etc. can also be found in our GitHub [repository](https://github.com/malouski/Greys_Anatomy).
+
+{{< button "Get the data" "https://github.com/malouski/Greys_Anatomy/tree/main/data_files" >}}
