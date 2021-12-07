@@ -21,7 +21,7 @@ Since there are a lot of different characters in the series, we've divided them 
 
 It's not surprising that there are most patients, since new patients arrive in each episode whereas the hospital staff is more persistent.
 
-The wikipages also provided some character attributes. We've chosen to describe each character by their name, condition (alive or deceased) and role. They are connect to each other by having a doctor/patient relationship, being romantically involved and being family members. Let's take a look at Meredith's attributes.
+The wikipages also provided some character attributes. We've chosen to describe each character by their name, condition (alive or deceased) and role. They are connected to each other by having a doctor/patient relationship, being romantically involved and being family members. Let's take a look at Meredith's attributes.
 
 name
 : Meredith Grey
