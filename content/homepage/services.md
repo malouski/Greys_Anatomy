@@ -1,5 +1,5 @@
 ---
-title: "The network"
+title: "Basic statistics"
 weight: 2
 header_menu: true
 plotly: true
