@@ -176,7 +176,7 @@ The characters who has been in most episodes are also some of those who has the 
 Hover the mouse over the plot below to have a look at the stats!
 
 <div align="center">
-    <iframe src="treatment_chart.html" sandbox="allow-same-origin allow-scripts" width=700 height=680px
+    <iframe src="treatment_chart.html" sandbox="allow-same-origin allow-scripts" width=700 height=670px
     scrolling="no"
     seamless="seamless"
     frameborder="0"
