@@ -167,16 +167,25 @@ Hover over the plot to see who has been in most episodes!
 
 Wauw, Miranda Bailey has been in 389 episodes! That means she is the most appearing character in the Grey's Anatomy franchise.
 
-PLOTS OM VIEWS AF EPISODER/SÆSONER?
+The characters who has been in most episodes are also some of those who has the most connections, makes sense! The doctors often has a large number of connections because they have many patients.
 
-OVERGANG TIL ROMANCES
+<div align="center">
+    <h5> Who do you think treats the most patients? And who is most unsuccesful in doing so? </h5>
+</div>
 
-PLOT / TABLE
+Hover the mouse over the plot below to have a look at the stats!
+
+<div align="center">
+    <iframe src="treatment_chart.html" sandbox="allow-same-origin allow-scripts" width=700 height=700px
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0"
+     ></iframe>
+</div>
+
+Meredith treats most patients throughout the series, which is expected. One might be surprised by the high no. of deceased patients during Derek's treaments considering his relative short lifetime in the show compared to Miranda and Meredith, who are the top two doctors in terms of lost patients.
+Who would have guessed that Preston Burke scores significantly higher than the subsequent doctores in top 5 Patient Death Rate? Another interesting finding is that 3 out of 5 doctors with highest death rate are brain surgeons. Maybe this medical speciality has more critical cases?
 
 ---
 
-The initial exploration of the data set made us ask ...
-
-So now we have seen that the OG characters are the ones with most connections and that their 'lifetime' in the series varies quite a lot. For further analysis we will take a deeper look at some of these characters development over time...
-
-
+The initial exploration of the data set has given us an overview of the network and the connections within it, the important characters of the series and some facts about them. The main characters are mostly doctors who has many connections because they treat a lot of patients. However, they also have a lot of connections with other hospital staff - some are family, others are romantic affairs...
