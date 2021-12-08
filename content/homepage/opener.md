@@ -16,9 +16,7 @@ We are using the [fandom wikipage for Grey's Anatomy](https://greysanatomy.fando
 
 {{< button "Get the data" "https://github.com/malouski/Greys_Anatomy/tree/main/data_files" >}}
 
-Read more about data cleaning and preprocessing in the explainer notebook.
-
-{{< button "Go to explainer notebook" "https://nbviewer.org/github/malouski/Greys_Anatomy/blob/main/explainer_notebook.ipynb" >}}
+The data cleaning, analysis and code for this project can be found in the [explainer notebook](https://nbviewer.org/github/malouski/Greys_Anatomy/blob/main/explainer_notebook.ipynb?flush_cache=false).
 
 All our notebooks, data, etc., can also be found in our GitHub [repository](https://github.com/malouski/Greys_Anatomy).
 
